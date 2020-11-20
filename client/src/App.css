@@ -1,0 +1,9 @@
+.App {
+}
+html,
+body {
+  background-color: rgba(0, 0, 0, 0.75);
+  box-sizing: border-box;
+  height: 100%;
+  color: antiquewhite;
+}
